@@ -16,7 +16,12 @@ public class ParserXML {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.Println("Hello");
+        System.out.println("Hello");
+        int a =0;
+        for (int i=0; i<100; i++){
+            System.out.println(a);
+            a+=2;
+        }
     }
     
 }
